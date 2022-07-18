@@ -13,4 +13,4 @@ Vavr: Functional programing.
 Lombok: For objects and logs.
 AssetJ: For UnitTest.
 
-Note: please use the command line: java -jar Rectangles-1.0-SNAPSHOT-jar-with-dependencies.jar
+Note: please use the command line, into target folder: java -jar Rectangles-1.0-SNAPSHOT-jar-with-dependencies.jar
